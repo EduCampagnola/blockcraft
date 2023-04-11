@@ -1,0 +1,15 @@
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\Blockcraft.exe
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\Blockcraft.deps.json
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\Blockcraft.runtimeconfig.json
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\Blockcraft.dll
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\ref\Blockcraft.dll
+D:\Laboratorio\Blockcraft\Blockcraft\bin\Debug\net6.0\Blockcraft.pdb
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.csproj.AssemblyReference.cache
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.AssemblyInfoInputs.cache
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.AssemblyInfo.cs
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.csproj.CoreCompileInputs.cache
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.dll
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\ref\Blockcraft.dll
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.pdb
+D:\Laboratorio\Blockcraft\Blockcraft\obj\Debug\net6.0\Blockcraft.genruntimeconfig.cache
